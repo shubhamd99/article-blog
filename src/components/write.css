@@ -1,0 +1,23 @@
+.article-form{
+    width: 50%;
+    background-color: white;
+    color: #3E3E3E;
+    justify-content: center;
+    margin-left: 5%;
+    margin-top: 2%;
+    margin-bottom: 8%;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.article-bottom-grid {
+    justify-content: center;
+    position: fixed;
+    color: white;
+    width: 100%; 
+	background-color: #EE2C47  ;
+	height : 20px;
+    bottom: 0;
+    left: 0;
+}
